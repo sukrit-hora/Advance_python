@@ -1,7 +1,4 @@
-# Assignment No. 14
-# Name:Anushka Bhagwat
-# Class:sy 7
-# Roll No:50
+
 
 # Step 1: Import the logging module
 import logging
