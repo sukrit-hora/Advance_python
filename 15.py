@@ -1,8 +1,5 @@
 
-# Assignment No 15
-# Name:Anushka Bhagwat
-# Class:sy 7
-# Roll No:50
+
 
 # Step 1: Import the required modules
 import gc
